@@ -1,12 +1,12 @@
-# Boston's Airbnb Analysis as of March 2024
+# Japan's Airbnb Analysis as of March 2024
 
 ### Project Overview
 
-This project's objective is to provide insights on the number of listings Boston has to offer. Prices vary depending on where the listing is located and what type of room the listing is. We will dive into the dataset to find which areas are generally lower than the average price or which ones are above. Prices are per night. We will also look to see which areas are generally more popular than others.
+This project's objective is to provide insights on the number of listings Tokyo, Japan has to offer. Prices vary depending on where the listing is located and what type of room the listing is. We will dive into the dataset to find which areas are generally lower than the average price or which ones are above. Prices are per night. We will also look to see which areas are generally more popular than others. These findings could lead to strong decision-making for locals and tourists in finding rooms for their vacation. Prices may flucuate at times so prices may not be 100% accurate from March 2024 onwards. 
 
 ### About the Data
 
-The primary dataset can be found on <https://insideairbnb.com/get-the-data/>. The provided csv file is labeled listings (4).csv . 
+The primary dataset can be found on <https://insideairbnb.com/get-the-data/>. The provided csv file is labeled listings.csv.gz
 
 ### Tools Used
 
